@@ -2,7 +2,7 @@
 This is an assignment we did in school to learn how to create different object shapes using raytracing and create images from the information given in the code.
 
 ## Demo
-This demo shows different shapes such as:
+This example-demo shows different shapes such as:
 - OBB
 - Plane
 - Sphere
